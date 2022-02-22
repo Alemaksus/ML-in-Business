@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
     <mapping directory="$PROJECT_DIR$/GB_docker_flask_example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ML-in-Business" vcs="Git" />
   </component>
 </project>

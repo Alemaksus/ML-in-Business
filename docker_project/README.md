@@ -33,16 +33,16 @@
 #### Клонируем репозиторий
 
 '''
-$ git clone https://github.com/shatandv/GB-ML-Business-Project.git ml_api_project
+$ git clone https://github.com/Alemaksus/ML-in-Business
 
-$ cd ml_api_project
+$ cd docker_project
 '''
 
 #### Запускаем контейнер
 
+$ docker run -d -p 8180:8180 -p 8181:8181 -v <C:\Coding\Data Science\ML in Business\docker_project\app>:/app/app/ML-in-Business/docker_project/app/training_files/
+
 $ docker-compose up -d
-
-
 
 
 
